@@ -85,7 +85,7 @@
                <children>
                   <ImageView fitHeight="72.0" fitWidth="63.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="/img/diannao.png" />
+                        <Image url="/img/dianna.png" />
                      </image>
                   </ImageView>
                   <VBox prefHeight="200.0" prefWidth="100.0">
@@ -163,7 +163,7 @@
             <Label prefHeight="62.0" prefWidth="138.0" />
             <Label prefHeight="33.0" prefWidth="49.0" text="小计：" />
             <Label prefHeight="55.0" prefWidth="114.0" />
-            <Label prefHeight="42.0" prefWidth="171.0" text="          总计：" textFill="#06ab17">
+            <Label prefHeight="42.0" prefWidth="171.0" text="          总计：" styleClass="green-theme">
                <font>
                   <Font size="27.0" />
                </font>
@@ -190,17 +190,17 @@
             </HBox>
          </children>
       </VBox>
-      <Label layoutX="798.0" layoutY="805.0" prefHeight="34.0" prefWidth="72.0" text="收款：" textFill="#bf0909">
+      <Label layoutX="798.0" layoutY="805.0" prefHeight="34.0" prefWidth="72.0" text="收款：" styleClass="red-theme">
          <font>
             <Font size="23.0" />
          </font>
       </Label>
-      <Label layoutX="798.0" layoutY="844.0" text="实收：" textFill="#b91212">
+      <Label layoutX="798.0" layoutY="844.0" text="实收：" styleClass="red-theme">
          <font>
             <Font size="24.0" />
          </font>
       </Label>
-      <Label layoutX="798.0" layoutY="882.0" text="找零：" textFill="#c90a0a">
+      <Label layoutX="798.0" layoutY="882.0" text="找零：" styleClass="red-theme">
          <font>
             <Font size="24.0" />
          </font>
