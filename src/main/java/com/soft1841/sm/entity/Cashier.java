@@ -1,4 +1,4 @@
 package com.soft1841.sm.entity;
 
-public class Seller {
+public class Cashier {
 }
