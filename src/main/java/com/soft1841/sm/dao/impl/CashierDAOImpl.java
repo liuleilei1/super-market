@@ -1,4 +1,4 @@
 package com.soft1841.sm.dao.impl;
 
-public class VIPImpl {
+public class CashierDAOImpl {
 }
