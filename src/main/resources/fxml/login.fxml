@@ -22,18 +22,18 @@
              <Image url="/img/star.png" />
          </image>
       </ImageView>
-      <Label layoutX="159.0" layoutY="14.0" prefHeight="75.0" prefWidth="365.0" text="星辰超市收银系统" textFill="WHITE">
+      <Label  layoutX="159.0" layoutY="14.0" prefHeight="75.0" prefWidth="365.0" text="星辰超市收银系统" styleClass="white-theme " >
          <font>
             <Font name="YouYuan" size="39.0" />
          </font>
       </Label>
-      <Label layoutX="193.0" layoutY="78.0" prefHeight="38.0" prefWidth="202.0" text="智 能 收 银 系 统" textFill="WHITE">
+      <Label layoutX="193.0" layoutY="78.0" prefHeight="38.0" prefWidth="202.0" text="智 能 收 银 系 统" styleClass="white-theme ">
          <font>
             <Font size="21.0" />
          </font>
       </Label>
-      <RadioButton layoutX="135.0" layoutY="130.0" mnemonicParsing="false" text="收银员" textFill="WHITE" />
-      <RadioButton layoutX="361.0" layoutY="130.0" mnemonicParsing="false" text="管理员" textFill="WHITE" />
+      <RadioButton layoutX="135.0" layoutY="130.0" mnemonicParsing="false" text="收银员" styleClass="white-theme " />
+      <RadioButton layoutX="361.0" layoutY="130.0" mnemonicParsing="false" text="管理员" styleClass="white-theme " />
       <TextField layoutX="159.0" layoutY="185.0" text="请输入账号" />
       <TextField layoutX="159.0" layoutY="267.0" text="请输入密码" />
       <TextField layoutX="159.0" layoutY="338.0" text="请输入验证码" />
