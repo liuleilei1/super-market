@@ -12,7 +12,7 @@
 
 
 <?import javafx.scene.effect.Reflection?>
-<BorderPane  xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="com.soft1841.sm.controller.Controller">
+<BorderPane  xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="com.soft1841.sm.controller.LoginController">
 
        <top>
            <AnchorPane prefHeight="80.0">
@@ -71,6 +71,7 @@
                            </TitledPane>
                            <TitledPane alignment="TOP_LEFT" text="会员管理">
                                <VBox minHeight="100" spacing="10" styleClass="dark-theme">
+                                   <Button styleClass="menu-btn" text="管理员信息" />
                                    <!--点击该按钮，右侧切换图书类别数据-->
 
                                </VBox>
