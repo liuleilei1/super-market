@@ -7,6 +7,7 @@ import java.util.List;
 
 /**
  * 会员DAO接口
+ * @auther
  */
 public interface VIPDAO {
     /**
@@ -23,7 +24,7 @@ public interface VIPDAO {
      * @return
      * @throws SQLException
      */
-    int deleteById(long id) throws SQLException;
+    int deleteVIPById(long id) throws SQLException;
 
     /**
      * 查询所有会员

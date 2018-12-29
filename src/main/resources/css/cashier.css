@@ -1,0 +1,49 @@
+.pink-theme{
+   -fx-font-size: 50;
+    -fx-font-family: STXingkai;
+}
+.green-theme{
+    -fx-background-image: url(/img/change.jpg);
+}
+.white-theme{
+    -fx-background-color: rgb(230,221,219);
+}
+.dark-theme{
+    -fx-background-color: rgb(230,221,219);
+
+}
+#bg{
+    -fx-background-image: url(/img/login.jpg);
+}
+.bg1{
+    -fx-background-color: rgb(60,131,161);
+}
+.bg2{
+    -fx-background-color:rgb(51,153,204);
+}
+.bg3{
+    -fx-text-fill: #ffffff;
+}
+.root{
+   -fx-background-image: url(/img/bgf.jpg);
+}
+.bg5{
+    -fx-background-color: rgb(173,236,253);
+}
+.button {
+    /*文本对齐方式*/
+    -fx-text-alignment: center;
+    /*合适高度*/
+    -fx-pref-height: 38px;
+    /*内边距*/
+    -fx-padding: 0 18px;
+    /*无边框*/
+    -fx-border-style: none;
+    /*鼠标样式*/
+    -fx-cursor: pointer;
+    /*边框圆角*/
+    -fx-border-radius: 2px;
+    -fx-background-radius: 2px;
+    -fx-background-color: rgb(141,189,225);
+    -fx-text-fill:rgb(161,119,69);
+}
