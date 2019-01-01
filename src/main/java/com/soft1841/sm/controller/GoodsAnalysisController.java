@@ -1,20 +1,20 @@
 package com.soft1841.sm.controller;
 
 
-import cn.hutool.db.Entity;
+
 import com.soft1841.sm.entity.Type;
 import com.soft1841.sm.service.GoodsService;
 import com.soft1841.sm.service.TypeService;
 import com.soft1841.sm.until.ServiceFactory;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import javafx.concurrent.Service;
+
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.chart.*;
 import javafx.scene.layout.StackPane;
 
-import javax.swing.text.html.ImageView;
+
 import java.net.URL;
 import java.util.List;
 import java.util.ResourceBundle;

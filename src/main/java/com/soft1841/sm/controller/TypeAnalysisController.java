@@ -1,6 +1,6 @@
 package com.soft1841.sm.controller;
 
-import com.soft1841.sm.service.GoodsService;
+
 import com.soft1841.sm.service.TypeService;
 import com.soft1841.sm.until.ServiceFactory;
 import javafx.collections.FXCollections;

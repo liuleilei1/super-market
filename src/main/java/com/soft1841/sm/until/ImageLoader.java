@@ -8,10 +8,7 @@ import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingDeque;
 import java.util.concurrent.BlockingQueue;
 
-/**
- * @author 陈宇航
- * 2018.12.29
- */
+
 public class ImageLoader extends Thread{
     double width = 800;
     double height = 600;

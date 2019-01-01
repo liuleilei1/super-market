@@ -5,10 +5,7 @@ import com.soft1841.sm.dao.impl.TypeDAOImpl;
 import com.soft1841.sm.service.*;
 import com.soft1841.sm.service.impl.*;
 
-/**
- * 业务逻辑类工厂
- * @auther
- */
+
 public class ServiceFactory {
 
     public static CashierService getCashierServiceInstance() {

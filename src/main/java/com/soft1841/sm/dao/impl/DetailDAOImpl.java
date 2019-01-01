@@ -9,25 +9,8 @@ import com.soft1841.sm.entity.Detail;
 import java.sql.SQLException;
 import java.util.List;
 
-public class DetailDAOImpl implements DetailDAO {
+public class DetailDAOImpl  {
 
-    @Override
-    public Long insertDetail(Detail detail) throws SQLException {
-        return null;
-    }
 
-    @Override
-    public List<Detail> selectAllDetail() throws SQLException {
-        return null;
-    }
 
-    @Override
-    public Detail getDetailById(long id) throws SQLException {
-        return null;
-    }
-
-    @Override
-    public Detail getDetailByDate(String date) throws SQLException {
-        return null;
-    }
 }

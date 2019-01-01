@@ -1,8 +1,4 @@
 package com.soft1841.sm.until;
-/**
- * @auther 柳磊磊
- *2018 12.26
- */
 
 import javafx.scene.control.Button;
 

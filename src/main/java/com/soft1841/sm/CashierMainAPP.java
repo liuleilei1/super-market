@@ -6,11 +6,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-/**
- * 前台主界面App
- * @author 陈宇航
- * 2018.12.25
- */
+
 public class CashierMainAPP extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {

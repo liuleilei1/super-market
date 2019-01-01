@@ -8,10 +8,7 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-/**
- * @author 陈宇航
- * 2018.12.24
- */
+
 public class CashierServiceTest {
 
     private CashierService cashierService = ServiceFactory.getCashierServiceInstance();

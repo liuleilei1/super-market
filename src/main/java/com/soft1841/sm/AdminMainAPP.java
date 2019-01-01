@@ -9,11 +9,7 @@ import javafx.scene.control.Button;
 import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
-/**
- * 后台主界面App
- * @author 陈宇航
- * 2018.12.25
- */
+
 public class AdminMainAPP extends Application {
 
 
