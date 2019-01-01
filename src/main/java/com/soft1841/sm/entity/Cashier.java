@@ -1,10 +1,6 @@
 package com.soft1841.sm.entity;
 
-/**
- * 收银员实体类
- * @author 陈宇航
- * 2018.12.24
- */
+
 public class Cashier {
     private Long id;
     private String name;

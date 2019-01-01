@@ -24,11 +24,6 @@ import javafx.stage.Stage;
 import java.net.URL;
 import java.util.*;
 
-/**
- * 收银员信息控制器
- * @author 陈宇航
- * 2018.12.27
- */
 public class CashierController implements Initializable {
     @FXML
     private FlowPane cashierPane;

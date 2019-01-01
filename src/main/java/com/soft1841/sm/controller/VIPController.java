@@ -26,11 +26,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.ResourceBundle;
 
-/**
- * 会员信息控制器
- * @author 高金通
- * 2018.12.27
- */
+
 public class VIPController implements Initializable {
     @FXML
     private FlowPane vipPane;

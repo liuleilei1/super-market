@@ -17,11 +17,6 @@ import java.util.List;
 import java.util.Optional;
 import java.util.ResourceBundle;
 
-/**
- * 商品种类控制器
- * @auther 柳磊磊
- * 2018 12.26
- */
 
 public class TypeController implements Initializable {
     //获得布局文件中的表格对象

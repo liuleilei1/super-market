@@ -13,10 +13,7 @@ import javafx.scene.layout.StackPane;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-/**
- * 商品种类统计控制器
- * @author 柳磊磊
- */
+
 public class TypeAnalysisController implements Initializable {
     @FXML
     private StackPane typePieChart;

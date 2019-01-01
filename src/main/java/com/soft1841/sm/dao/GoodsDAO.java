@@ -2,11 +2,7 @@ package com.soft1841.sm.dao;
 import com.soft1841.sm.entity.Goods;
 import java.sql.SQLException;
 import java.util.List;
-/**
- * 商品DAO接口
- * @ author 汤萌慧
- * 2018.12.26
- */
+
 public interface GoodsDAO {
     /**
      * 增加商品
@@ -70,4 +66,6 @@ public interface GoodsDAO {
      * @throws SQLException
      */
     int countByType(long typeId) throws SQLException;
+
+    int countGoods() throws Exception;
 }

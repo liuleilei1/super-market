@@ -23,11 +23,7 @@ import java.io.InputStream;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-/**
- * 主控制器
- * @author 小组成员
- * 2018.12.25
- */
+
 public class AdminMainController implements Initializable {
     @FXML
     private StackPane mainContainer;

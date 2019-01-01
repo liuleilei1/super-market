@@ -2,283 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc04e0d2-084b-4288-82d4-ca4f84736d79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/asus.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0_beta1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/AdminLoginApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/AdminMainAPP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/CashierLoginAPP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/CashierMainAPP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminLoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminMainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierAnalysisController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierLoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierMainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/DefaultController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/GoodsAnalysisController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/TypeAnalysisController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/AdminDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/AdminDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/ComponentUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/GoodsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/TypeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/VIPService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/AdminServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/CashierServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/GoodsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/TypeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/VIPServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/until/ComPonentutil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/until/ExcelExport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/until/ImageApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/until/ImageLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/until/ServiceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/cashier.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/vip.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/Image.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/add_goods.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/admin.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/adminlogin.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/admins.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/card.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/cashier.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/cashierlogin.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/default.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/goods.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/goods_analysis.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/manager.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/shouyin.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/shouyin_analysis.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/type.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/type_analysis.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/vip.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/GEM.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/bg1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/bgf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/change.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/dongtai.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/dongtu.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/fruit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/gb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/k1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/k2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/k3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/k4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/k5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/leibie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/me.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/musics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/people2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/shouyin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/shouyin1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/shouyin2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/shujujiazaishibai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/tong_ji.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/xiaoshou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/xinxi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/xitong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1841/sm/dao/AdminDAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1841/sm/dao/CashierDAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1841/sm/dao/GoodsDAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1841/sm/dao/TypeDAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1841/sm/dao/VIPDAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1841/sm/service/AdminServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1841/sm/service/CashierServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1841/sm/service/GoodsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1841/sm/service/TypeServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1841/sm/service/VIPServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/AdminLoginApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/AdminMainAPP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/CashierLoginAPP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/CashierMainAPP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/AddGoodsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/AdminController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/AdminLoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/AdminMainController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/CashierAnalysisController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/CashierController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/CashierLoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/CashierMainController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/DefaultController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/GoodsAnalysisController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/GoodsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/TicketController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/TypeAnalysisController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/TypeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/controller/VIPController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/AdminDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/CashierDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/DetailDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/GoodsDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/TicketDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/TypeDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/VIPDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/impl/AdminDAOImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/impl/CashierDAOImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/impl/DetailDAOImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/impl/GoodsDAOImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/impl/TicketDAOImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/impl/TypeDAOImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/dao/impl/VIPDAOImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/entity/Admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/entity/Cashier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/entity/ComponentUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/entity/Detail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/entity/Goods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/entity/Ticket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/entity/Type.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/entity/VIP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/service/AdminService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/service/CashierService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/service/GoodsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/service/TypeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/service/VIPService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/service/impl/AdminServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/service/impl/CashierServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/service/impl/GoodsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/service/impl/TypeServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/service/impl/VIPServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/until/ComPonentutil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/until/DAOFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/until/ExcelExport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/until/ImageApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/until/ImageLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/until/ServiceFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config/db.setting" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/css/cashier.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/css/manage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/css/vip.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/Image.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/add_goods.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/admin.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/adminlogin.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/admins.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/card.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/cashier.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/cashierlogin.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/default.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/goods.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/goods_analysis.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/manager.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/shouyin.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/shouyin_analysis.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/type.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/type_analysis.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fxml/vip.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/GEM.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/YY_kaiguan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/account.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/bg1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/bgf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/bill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/change.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/dianna.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/dongtai.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/dongtu.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/fruit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/gb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/k1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/k2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/k3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/k4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/k5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/leibie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/me.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/mima.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/musics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/people.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/people2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/shezhi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/shine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/shouyin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/shouyin1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/shouyin2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/shujujiazaishibai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/sure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/tong_ji.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/tools.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/xiaoshou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/xinxi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/xitong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1841/sm/dao/AdminDAOTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1841/sm/dao/CashierDAOTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1841/sm/dao/GoodsDAOTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1841/sm/dao/TypeDAOTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1841/sm/dao/VIPDAOTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1841/sm/service/AdminServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1841/sm/service/CashierServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1841/sm/service/GoodsServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1841/sm/service/TypeServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1841/sm/service/VIPServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/BoundaryApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/LoginApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/ManageApp.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/AnalysisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/AnalysisServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/sample.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/toux1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/toux2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/toux3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/toux4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AddGoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AddGoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminMainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminMainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierAnalysisController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierAnalysisController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierMainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierMainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/GoodsAnalysisController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/GoodsAnalysisController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/GoodsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/LoginController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/TypeAnalysisController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/TypeAnalysisController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/TypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/TypeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/VIPController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/VIPController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/AdminDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/AdminDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/CashierDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/CashierDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/DetailDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/DetailDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/GoodsDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/GoodsDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/TicketDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/TicketDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/TypeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/TypeDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/VIPDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/VIPDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/AdminDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/AdminDAOImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/CashierDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/CashierDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/DetailDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/DetailDAOImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/GoodsDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/GoodsDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/TicketDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/TicketDAOImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/TypeDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/TypeDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/VIPDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/VIPDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Admin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Cashier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/ComponentUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/ComponentUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Goods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Ticket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Type.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/VIP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/VIP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/CashierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/CashierService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/until/DAOFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/until/DAOFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/confing/db.setting" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/db.setting" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/css/basestyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/css/manage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/manage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/boundary.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/login.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/manage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/CashierServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/CashierServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/TypeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/TypeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/Image.fxml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -291,80 +59,117 @@
     <session id="-1517615002">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="7" />
+          <entry key="Image" value="19" />
+          <entry key="JAVA" value="56" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
           <entry key="JAVA" value="5" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/CashierMainAPP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/CashierLoginAPP.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Ticket.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/AdminMainAPP.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Type.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="108">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/img/me.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/VIP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/img/main.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/AdminServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/img/login.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/AnalysisServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/img/000.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/CashierServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/img/account.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/GoodsServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/img/bg.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/TypeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/VIPServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/img/bg1.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/AdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -376,6 +181,41 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/AdminLoginApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/AnalysisService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/AnalysisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AddGoodsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminLoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminMainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierAnalysisController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierLoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierMainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/GoodsAnalysisController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/TypeAnalysisController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/TypeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/VIPController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/AdminDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/CashierDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/GoodsDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/TypeDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/AdminDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/CashierDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/DetailDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/GoodsDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/TypeDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Cashier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/ComponentUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Goods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Type.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/VIP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/CashierServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/GoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/TypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/AdminService.java" />
       </list>
     </option>
   </component>
@@ -386,8 +226,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="168" />
-    <option name="y" value="81" />
+    <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="775" />
   </component>
@@ -396,7 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -435,7 +273,88 @@
               <item name="personal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="until" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="fxml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="personal" type="b2602c69:ProjectViewProjectNode" />
@@ -445,24 +364,70 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546069686371" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546357914847" />
     <property name="last_opened_file_path" value="D:/GJT" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\personal\src\main\resources\img" />
+      <recent name="D:\personal\src\main\resources\fxml" />
       <recent name="D:\personal" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.soft1841.sm.service" />
+      <recent name="com.soft1841.sm.service.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\personal" />
     </key>
   </component>
@@ -478,7 +443,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdminMainAPP">
+  <component name="RunManager" selected="Application.ImageApp">
     <configuration name="AdminLoginApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1841.sm.AdminLoginApp" />
       <module name="super-market" />
@@ -531,14 +496,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ImageApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.sm.until.ImageApp" />
+      <module name="super-market" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1841.sm.until.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.AdminLoginApp" />
       <item itemvalue="Application.CashierLoginAPP" />
       <item itemvalue="Application.CashierMainAPP" />
       <item itemvalue="Application.AdminMainAPP" />
+      <item itemvalue="Application.ImageApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImageApp" />
         <item itemvalue="Application.AdminMainAPP" />
         <item itemvalue="Application.CashierMainAPP" />
         <item itemvalue="Application.AdminLoginApp" />
@@ -556,45 +536,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546067787725</updated>
-      <workItem from="1546067789648" duration="1319000" />
+      <workItem from="1546067789648" duration="2310000" />
+      <workItem from="1546357290577" duration="845000" />
     </task>
+    <task id="LOCAL-00001" summary="超市收银">
+      <created>1546069759574</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546069759574</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1319000" />
+    <option name="totallyTimeSpent" value="3155000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="168" y="81" width="697" height="775" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.51805335" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34797296" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3296" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,58 +592,348 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="超市收银" />
+    <option name="LAST_COMMIT_MESSAGE" value="超市收银" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/VIPDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/img/dianna.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/img/dongtai.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/img/dongtu.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Image.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/AdminLoginApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/AnalysisService.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/CashierMainAPP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/manager.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/CashierLoginAPP.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/until/ImageApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/AdminMainAPP.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AddGoodsController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/img/me.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/img/main.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/img/login.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/AdminMainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/img/000.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierAnalysisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/img/account.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/img/bg.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/img/bg1.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/CashierMainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/DefaultController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/GoodsAnalysisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/TicketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/TypeAnalysisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/TypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/controller/VIPController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/AdminDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/CashierDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/DetailDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/GoodsDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2916">
+          <caret line="116" column="8" selection-start-line="116" selection-start-column="8" selection-end-line="116" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/TicketDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/TypeDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/impl/VIPDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/AdminDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/CashierDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/DetailDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/GoodsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/TicketDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/TypeDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/dao/VIPDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Cashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/ComponentUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Detail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/entity/VIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/AnalysisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/CashierServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/GoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/TypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/impl/VIPServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/sm/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

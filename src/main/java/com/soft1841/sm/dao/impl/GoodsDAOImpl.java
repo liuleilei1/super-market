@@ -1,8 +1,5 @@
 package com.soft1841.sm.dao.impl;
-/**
- * @ author 汤萌慧
- * 2018.12.26
- */
+
 
 import cn.hutool.db.Db;
 import cn.hutool.db.Entity;
@@ -115,6 +112,10 @@ public class GoodsDAOImpl implements GoodsDAO {
 
     }
 
+    @Override
+    public int countGoods() throws Exception {
+        return 0;
+    }
 
 
     private Goods convertGoods(Entity entity) {
